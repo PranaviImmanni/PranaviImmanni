@@ -1,4 +1,3 @@
-<img src="https://github.com/PranaviImmanni/PranaviImmanni/blob/main/Github%20Banner.png" alt="Hey I'm Pranavi banner" style="width:100%;">
 
 **💡 Data Science Student | San Jose State University | Python Enthusiast**
 
