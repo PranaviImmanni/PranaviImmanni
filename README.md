@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pranavi Immanni
 
-**💡 Data Science Student | San Jose State University | Python & Analytics Enthusiast | U.S. Citizen**
+**💡 Data Science Student | San José State University | Python & Analytics Enthusiast | U.S. Citizen**
 
 Welcome to my GitHub! I'm a data science student passionate about using data to solve real-world problems, build impactful tools, and uncover actionable insights. I enjoy blending creativity with analytics through hands-on projects and continuous learning.
 
