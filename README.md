@@ -52,7 +52,11 @@ Welcome to my GitHub! I'm a passionate data science student who loves exploring 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranaviImmanni&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranaviImmanni&layout=compact&theme=tokyonight)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PranaviImmanni&theme=tokyonight)
+
 
 ---
 
